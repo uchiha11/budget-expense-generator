@@ -252,7 +252,7 @@ var controller = (function (budgetCtrl, UICtrl) {
 
   return {
     init: function () {
-      console.log('Application has begun.');
+      console.log('Applicationn begun.');
       UICtrl.displayBudget({
         budget: 0,
         totalInc: 0,
